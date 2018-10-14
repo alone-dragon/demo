@@ -2,7 +2,7 @@
     "name": "alone-dragon/demo",
     "description": "test project",
     "type": "project",
-    "license": "min",
+    "license": "mit",
     "authors": [
         {
             "name": "alone-dragon",
