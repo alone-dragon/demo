@@ -1,0 +1,14 @@
+{
+    "name": "alone-dragon/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "min",
+    "authors": [
+        {
+            "name": "alone-dragon",
+            "email": "long_ear@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
